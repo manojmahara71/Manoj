@@ -1,0 +1,8 @@
+{
+  "name": "Meow",
+  "description": "An all-in-one application showcasing the power of the Gemini API, from real-time conversations and video generation to image editing, content analysis, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
